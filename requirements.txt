@@ -8,3 +8,4 @@ pyaudio
 numpy
 pandas
 playsound
+speak
