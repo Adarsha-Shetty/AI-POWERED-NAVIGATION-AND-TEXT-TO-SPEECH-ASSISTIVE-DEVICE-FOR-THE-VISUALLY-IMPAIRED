@@ -1,0 +1,10 @@
+opencv-python
+pytesseract
+torch
+ultralytics
+gTTS
+SpeechRecognition
+pyaudio
+numpy
+pandas
+playsound
